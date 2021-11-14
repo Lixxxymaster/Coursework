@@ -1,2 +1,12 @@
-I'm Makhno Viktor
-This is my course work in the discipline "Electronic component base of the electronic equipment"
+Course project: 
+    "Electronic component base of the electronic equipment"
+========================
+
+Author
+------
+
+* **Full name:** Viktor Makhno
+* **Organization/University:** `Igor Sikorsky Kyiv Polytechnic Institute <https://kpi.ua/en>`_
+* **Department:** `The Department of Design of Electronic Digital Equipment <http://www.keoa.kpi.ua/wp/>`_ 
+* **Telegram:** `@v_makhno <https://t.me/v_makhno>`_
+* **Email:** makhnovictor@gmail.com
