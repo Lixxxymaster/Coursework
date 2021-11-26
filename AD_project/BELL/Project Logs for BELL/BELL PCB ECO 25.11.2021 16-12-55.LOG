@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C3 Old Footprint=FP-CL46-IPC_B New Footprint=FP-CL46-IPC_B
+Change Component Footprint: Designator=R4 Old Footprint=FP-CRCW0805-e3-IPC_B New Footprint=FP-CRCW0805-e3-IPC_B
+Change Component Footprint: Designator=C1 Old Footprint=FP-GRM033-0_03-IPC_B New Footprint=FP-GRM033-0_03-IPC_B
+Change Component Footprint: Designator=R5 Old Footprint=FP-KTR10-IPC_B New Footprint=FP-KTR10-IPC_B
+Change Component Footprint: Designator=C2 Old Footprint=FP-MK325M-IPC_B New Footprint=FP-MK325M-IPC_B
+Change Component Footprint: Designator=U1 Old Footprint=FP-P0008A-MFG New Footprint=FP-P0008A-MFG
+Change Component Footprint: Designator=U2 Old Footprint=FP-P0008A-MFG New Footprint=FP-P0008A-MFG
+Change Component Footprint: Designator=R1 Old Footprint=FP-RMCF0805-IPC_B New Footprint=FP-RMCF0805-IPC_B
+Change Component Footprint: Designator=R2 Old Footprint=FP-RMCF0805-IPC_B New Footprint=FP-RMCF0805-IPC_B
+Change Component Footprint: Designator=R3 Old Footprint=FP-RT0805-IPC_B New Footprint=FP-RT0805-IPC_B
+Change Component Comment : Designator=C1 Old Comment=0.012u New Comment=0.012uF
